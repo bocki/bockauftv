@@ -27,6 +27,7 @@ GEM
     colorator (0.1)
     ffi (1.9.10)
     hitimes (1.2.2)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
     jekyll-watch (1.2.1)
@@ -58,6 +59,7 @@ DEPENDENCIES
   bitters
   bourbon
   jekyll!
+  jekyll-paginate
   neat
   sass
 

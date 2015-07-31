@@ -5,3 +5,5 @@ gem 'sass'
 gem 'bourbon'
 gem 'bitters'
 gem 'neat'
+
+gem 'jekyll-paginate'
