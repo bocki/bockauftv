@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll
-  revision: 611489aae1a076de6b00670201babeb74d9eef0b
+  revision: af3fe0f30d172d8ab712919d0aeaee8210639250
   specs:
     jekyll (3.0.0.pre.beta8)
       colorator (~> 0.1)
@@ -22,7 +22,7 @@ GEM
     bourbon (4.2.3)
       sass (~> 3.4)
       thor
-    celluloid (0.16.0)
+    celluloid (0.16.1)
       timers (~> 4.0.0)
     colorator (0.1)
     ffi (1.9.10)
